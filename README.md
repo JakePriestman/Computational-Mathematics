@@ -1,4 +1,4 @@
-# Computation Mathematics
+# Computational Mathematics
 
 These are my solutions to the weekly homework given to Mathematics Students during 2nd year at University of Leeds for the module Computational Mathematics.
 
